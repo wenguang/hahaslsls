@@ -1,0 +1,6 @@
+framework module Pods_hahaslsls_Tests {
+  umbrella header "Pods-hahaslsls_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

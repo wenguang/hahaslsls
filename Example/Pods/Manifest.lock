@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - hahaslsls (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - hahaslsls (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  hahaslsls:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  hahaslsls: b8c7f83e94eebed46e70922cf9e92678d6a0ceed
+
+PODFILE CHECKSUM: 309244100c0b3112a073914495c48022c98a1c00
+
+COCOAPODS: 1.8.4

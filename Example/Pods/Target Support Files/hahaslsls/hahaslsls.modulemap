@@ -1,0 +1,6 @@
+framework module hahaslsls {
+  umbrella header "hahaslsls-umbrella.h"
+
+  export *
+  module * { export * }
+}
